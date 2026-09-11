@@ -1,3 +1,4 @@
 nombre = []
 telefono = []
+email = []
 direccion = []
